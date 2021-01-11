@@ -1,0 +1,3 @@
+from .settings_common import *
+
+SECRET_KEY = 'hogehoge'
